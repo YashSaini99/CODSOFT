@@ -26,7 +26,8 @@ A real-time chat application enabling users to communicate instantly.
 - **Features:**
   - Real-time messaging
   - User-friendly interface
-  - Responsive design
+  - Multiple users can join a chat room
+  - Upload Media in the chatroom 
 
 ## Technologies Used
 - HTML
