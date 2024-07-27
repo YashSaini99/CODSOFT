@@ -41,4 +41,4 @@ The project consists of the following files:
 
 ## Acknowledgments
 
-Thanks to [Codsoft](https://www.codsoft.com) for providing the opportunity to work on this project during my internship.
+Thanks to [Codsoft](https://www.codsoft.in) for providing the opportunity to work on this project during my internship.
