@@ -1,6 +1,6 @@
 # CodSoft Internship Projects
 
-This repository contains three projects developed during my CodSoft internship. Each project is built using HTML, CSS, and JavaScript.
+This repository contains three projects developed during my CodSoft internship. Each project is built using HTML, CSS, Node.js and JavaScript.
 
 ## Projects
 
